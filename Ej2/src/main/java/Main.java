@@ -17,15 +17,9 @@ public class Main {
         // TODO code application logic here}
         System.out.println("Ej2 ") ;
 
-        System.out.println("ola k ase ") ;
-        System.out.println("aca cagamos todo :( ") ;
-
-        System.out.println("Concepcion Alvarado") ;
-        
-        
+        System.out.println("ola k ase ") ;          // NO DESORDENAR :@
+        System.out.println("aca cagamos todo :( ") ;   
         System.out.println("MERGE SORT, DJKSTRA♥") ;
-        
-        
         System.out.println("Concepcion Alvarado") ; //AAAA
         System.out.println("ANSELH = 0xFF") ;
 
