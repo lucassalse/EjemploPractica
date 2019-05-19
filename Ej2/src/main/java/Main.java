@@ -17,11 +17,11 @@ public class Main {
         // TODO code application logic here}
         System.out.println("Ej2 ") ;
 
-        System.out.println("ola k ase ") ;          // NO DESORDENAR :@
-        System.out.println("aca cagamos todo :( ") ;   
+        System.out.println("Hola QUE HACE ") ;          // NO DESORDENAR :@
         System.out.println("MERGE SORT, DJKSTRA♥") ;//HOLA
-        System.out.println("Concepcion Alvarado") ; //AAAA
-        System.out.println("ANSELH = 0xFF") ;
+        System.out.println("Concepcion") ; //AAAA
+        System.out.println("ANSELH = 0xFE") ;
+        System.out.println("ANSELH = 0xAA") ;
 
         
         System.out.println("1") ; 
