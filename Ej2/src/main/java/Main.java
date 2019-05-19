@@ -15,17 +15,20 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here}
-        System.out.println("Ej2 ") ;
+        System.out.println("Ej20 ") ;
 
         System.out.println("Hola QUE HACE ") ;          // NO DESORDENAR :@
         System.out.println("MERGE SORT, DJKSTRA♥") ;//HOLA
-        System.out.println("Concepcion") ; //AAAA
+        
         System.out.println("ANSELH = 0xFE") ;
         System.out.println("ANSELH = 0xAA") ;
 
         
         System.out.println("1") ; 
         System.out.println("2") ; 
+        
+        int nuemero = 1 ;
+        String equipo = "WANCHOPE" ;
     }
     
 }
