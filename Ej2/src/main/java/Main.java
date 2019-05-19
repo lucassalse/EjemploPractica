@@ -22,6 +22,9 @@ public class Main {
         System.out.println("MERGE SORT, DJKSTRA♥") ;
         System.out.println("Concepcion Alvarado") ; //AAAA
 
+        
+        System.out.println("1") ; 
+        System.out.println("2") ; 
     }
     
 }
