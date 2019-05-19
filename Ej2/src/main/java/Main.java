@@ -39,6 +39,8 @@ public class Main {
         String equipo = "WANCHOPE" ;
         System.out.println("23") ; 
         System.out.println("24") ; 
+        System.out.println("25") ; 
+        System.out.println("26") ; 
     }
     
 }
