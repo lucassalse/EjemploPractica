@@ -19,7 +19,7 @@ public class Main {
 
         System.out.println("ola k ase ") ;          // NO DESORDENAR :@
         System.out.println("aca cagamos todo :( ") ;   
-        System.out.println("MERGE SORT, DJKSTRA♥") ;
+        System.out.println("MERGE SORT, DJKSTRA♥") ;//HOLA
         System.out.println("Concepcion Alvarado") ; //AAAA
         System.out.println("ANSELH = 0xFF") ;
 
