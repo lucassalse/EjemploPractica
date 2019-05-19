@@ -23,24 +23,6 @@ public class Main {
         System.out.println("ANSELH = 0xFE") ;
         System.out.println("ANSELH = 0xAA") ;
 
-        
-        System.out.println("1") ; 
-        System.out.println("2") ; 
-        System.out.println("3") ; 
-        System.out.println("4") ; 
-        System.out.println("5") ; 
-        System.out.println("6"
-                + "7"
-                + "8"
-                + "9"
-                + "10") ; 
-        
-        int nuemero = 1 ;
-        String equipo = "WANCHOPE" ;
-        System.out.println("23") ; 
-        System.out.println("24") ; 
-        System.out.println("25") ; 
-        System.out.println("26") ; 
     }
     
 }
