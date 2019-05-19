@@ -29,6 +29,8 @@ public class Main {
         
         int nuemero = 1 ;
         String equipo = "WANCHOPE" ;
+        System.out.println("23") ; 
+        System.out.println("24") ; 
     }
     
 }
