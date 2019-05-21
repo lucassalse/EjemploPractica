@@ -22,6 +22,8 @@ public class Main {
         
         System.out.println("Hola Seba borre los hex") ;
         
+        System.out.println("HOLA LUQUINHAS");
+        
         Numero numero1 = new Numero() ;
         System.out.println("El numero fue: "+ numero1.getNumero()) ;
         System.out.println("AAAAAAAAAA") ;
