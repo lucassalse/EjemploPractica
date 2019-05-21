@@ -20,8 +20,7 @@ public class Main {
         System.out.println("Hola QUE HACE ") ;          // NO DESORDENAR :@
         System.out.println("MERGE SORT, DJKSTRA♥") ;//HOLA
         
-        System.out.println("ANSELH = 0xFE") ;
-        System.out.println("ANSELH = 0xAA") ;
+        System.out.println("Hola Seba borre los hex") ;
         
         Numero numero1 = new Numero() ;
         System.out.println("El numero fue: "+ numero1.getNumero()) ;
