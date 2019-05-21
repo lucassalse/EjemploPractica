@@ -23,6 +23,8 @@ public class Main {
         System.out.println("ANSELH = 0xFE") ;
         System.out.println("ANSELH = 0xAA") ;
         
+        System.out.println("HOLA LUQUINHAS");
+        
         Numero numero1 = new Numero() ;
         System.out.println("El numero fue: "+ numero1.getNumero()) ;
         
