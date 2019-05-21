@@ -26,6 +26,8 @@ public class Main {
         
         System.out.println("EL METODO DE LA SACUDIDA EN RAMA LOCAL");
         
+        Wanchope respuesta = new Wanchope() ;
+        System.out.println(respuesta.getFraseWanchopista());
 
     }
     
