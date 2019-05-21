@@ -24,6 +24,10 @@ public class Main {
         System.out.println("AAAAAAAAAA") ;
         System.out.println("Esto esta en la rama desarrollador1") ;
         
+        Palabra palabra1 = new Palabra() ;
+        
+        System.out.println("El nombre de la instancia palabra1 es:" + palabra1.getNombre()) ;
+        
 
     }
     
